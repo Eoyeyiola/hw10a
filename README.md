@@ -1,4 +1,4 @@
-# Clousd Computing 
+# Cloud Computing 
 ### HW10 Azure Solutions
 
 This appliacation runs in an Azure App Service and reads from an Azure MySQL server. 
